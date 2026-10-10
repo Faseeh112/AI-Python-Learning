@@ -1,0 +1,47 @@
+<html>
+<head>
+    <title>Test Web</title>
+</head>
+
+<body>
+<!--<h1>Welcome {{client}}</h1>-->
+<!--{% for i in range(10) %}-->
+<!--{% if i%2==0 %}-->
+<!--<p>{{i}}</p>-->
+<!--{% endif %}-->
+<!--{% endfor %}-->
+
+
+<!--<ul>-->
+<!--{%for i in client%}-->
+<!--<li>{{i}}</li>-->
+<!--{%endfor%}-->
+<!--</ul>-->
+
+<!--{%for i in client%}-->
+<!--<p>Product = {{i}} , Price = {{client[i][0].values}} , Quantity = {{client[i][1].values}}</p>-->
+<!--{%endfor%}-->
+<h1>Hello {{name}}</h1>
+
+<table>
+    <tr>
+        <th> Cart_id </th>
+        <th> name</th>
+        <th>price </th>
+        <th>Quantity </th>
+        <th>Total price </th>
+    </tr>
+
+    {%for val in data%}
+    <tr>
+        <td> {{id}} </td>
+        <td> {{val.name}} </td>
+        <td> {{val.price}} </td>
+        <td> {{val.quantity}} </td>
+        <td> {{val.quantity*val.price}} </td>
+    </tr>
+    {%endfor%}
+</table>
+<h3 >Total Bill =  {{sum}}</h3>
+</body>
+</html>

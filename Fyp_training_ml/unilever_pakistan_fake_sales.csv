@@ -1,0 +1,425 @@
+Product,Month,Sales (Pieces)
+Rafhan Custard,Sep 2024,1426898
+Rafhan Custard,Oct 2024,1816558
+Rafhan Custard,Nov 2024,1697070
+Rafhan Custard,Dec 2024,1598378
+Rafhan Custard,May 2025,1372356
+Rafhan Custard,Jun 2025,1607146
+Rafhan Custard,Jul 2025,1525104
+Rafhan Custard,Aug 2025,1400386
+Rafhan Jelly,Sep 2024,704023
+Rafhan Jelly,Oct 2024,671436
+Rafhan Jelly,Nov 2024,524439
+Rafhan Jelly,Dec 2024,517206
+Rafhan Jelly,May 2025,517580
+Rafhan Jelly,Jun 2025,546225
+Rafhan Jelly,Jul 2025,598498
+Rafhan Jelly,Aug 2025,576497
+Rafhan Cornflour,Sep 2024,4578112
+Rafhan Cornflour,Oct 2024,3904336
+Rafhan Cornflour,Nov 2024,5672906
+Rafhan Cornflour,Dec 2024,4259362
+Rafhan Cornflour,May 2025,3988160
+Rafhan Cornflour,Jun 2025,4994983
+Rafhan Cornflour,Jul 2025,4544921
+Rafhan Cornflour,Aug 2025,5690982
+Knorr Noodles,Sep 2024,1232546
+Knorr Noodles,Oct 2024,1025973
+Knorr Noodles,Nov 2024,976118
+Knorr Noodles,Dec 2024,1393892
+Knorr Noodles,May 2025,1401808
+Knorr Noodles,Jun 2025,1327486
+Knorr Noodles,Jul 2025,1089355
+Knorr Noodles,Aug 2025,991537
+Knorr Soup,Sep 2024,1417312
+Knorr Soup,Oct 2024,1378612
+Knorr Soup,Nov 2024,1496507
+Knorr Soup,Dec 2024,1147981
+Knorr Soup,May 2025,1262969
+Knorr Soup,Jun 2025,1152667
+Knorr Soup,Jul 2025,1455395
+Knorr Soup,Aug 2025,1280979
+Knorr Ketchup,Sep 2024,1293519
+Knorr Ketchup,Oct 2024,1758110
+Knorr Ketchup,Nov 2024,1642987
+Knorr Ketchup,Dec 2024,1740298
+Knorr Ketchup,May 2025,1713851
+Knorr Ketchup,Jun 2025,1538058
+Knorr Ketchup,Jul 2025,1729864
+Knorr Ketchup,Aug 2025,1236469
+Lipton Yellow Label,Sep 2024,1347335
+Lipton Yellow Label,Oct 2024,1294264
+Lipton Yellow Label,Nov 2024,1645746
+Lipton Yellow Label,Dec 2024,1856523
+Lipton Yellow Label,May 2025,1186202
+Lipton Yellow Label,Jun 2025,1035581
+Lipton Yellow Label,Jul 2025,1044805
+Lipton Yellow Label,Aug 2025,985197
+Lipton Green Tea,Sep 2024,9131758
+Lipton Green Tea,Oct 2024,7242556
+Lipton Green Tea,Nov 2024,11144299
+Lipton Green Tea,Dec 2024,12693453
+Lipton Green Tea,May 2025,9128548
+Lipton Green Tea,Jun 2025,6831890
+Lipton Green Tea,Jul 2025,7768772
+Lipton Green Tea,Aug 2025,6969660
+Brooke Bond Supreme,Sep 2024,1695087
+Brooke Bond Supreme,Oct 2024,1450082
+Brooke Bond Supreme,Nov 2024,2421755
+Brooke Bond Supreme,Dec 2024,2510149
+Brooke Bond Supreme,May 2025,1574170
+Brooke Bond Supreme,Jun 2025,1772451
+Brooke Bond Supreme,Jul 2025,1649051
+Brooke Bond Supreme,Aug 2025,2056507
+Walls Vanilla Cup,Sep 2024,4019701
+Walls Vanilla Cup,Oct 2024,4348792
+Walls Vanilla Cup,Nov 2024,3913795
+Walls Vanilla Cup,Dec 2024,3959209
+Walls Vanilla Cup,May 2025,4675948
+Walls Vanilla Cup,Jun 2025,4282186
+Walls Vanilla Cup,Jul 2025,5646457
+Walls Vanilla Cup,Aug 2025,6860403
+Walls Chocolate Cup,Sep 2024,1308476
+Walls Chocolate Cup,Oct 2024,1134974
+Walls Chocolate Cup,Nov 2024,1516100
+Walls Chocolate Cup,Dec 2024,1338884
+Walls Chocolate Cup,May 2025,2341562
+Walls Chocolate Cup,Jun 2025,1832826
+Walls Chocolate Cup,Jul 2025,1698630
+Walls Chocolate Cup,Aug 2025,1727198
+Magnum Classic,Sep 2024,1643497
+Magnum Classic,Oct 2024,1695395
+Magnum Classic,Nov 2024,1356977
+Magnum Classic,Dec 2024,1235241
+Magnum Classic,May 2025,1976647
+Magnum Classic,Jun 2025,2725072
+Magnum Classic,Jul 2025,1914842
+Magnum Classic,Aug 2025,1908285
+Magnum Almond,Sep 2024,1537096
+Magnum Almond,Oct 2024,1485154
+Magnum Almond,Nov 2024,1519725
+Magnum Almond,Dec 2024,1752152
+Magnum Almond,May 2025,2067094
+Magnum Almond,Jun 2025,2156982
+Magnum Almond,Jul 2025,2932496
+Magnum Almond,Aug 2025,2790888
+Cornetto Chocolate,Sep 2024,3246514
+Cornetto Chocolate,Oct 2024,2661210
+Cornetto Chocolate,Nov 2024,2955896
+Cornetto Chocolate,Dec 2024,3772648
+Cornetto Chocolate,May 2025,3883730
+Cornetto Chocolate,Jun 2025,5793209
+Cornetto Chocolate,Jul 2025,4841855
+Cornetto Chocolate,Aug 2025,4657809
+Cornetto Strawberry,Sep 2024,1626101
+Cornetto Strawberry,Oct 2024,1963869
+Cornetto Strawberry,Nov 2024,1579051
+Cornetto Strawberry,Dec 2024,1853946
+Cornetto Strawberry,May 2025,2292549
+Cornetto Strawberry,Jun 2025,2667640
+Cornetto Strawberry,Jul 2025,2516102
+Cornetto Strawberry,Aug 2025,2477256
+Fruttare Mango,Sep 2024,642980
+Fruttare Mango,Oct 2024,528538
+Fruttare Mango,Nov 2024,654104
+Fruttare Mango,Dec 2024,580160
+Fruttare Mango,May 2025,870139
+Fruttare Mango,Jun 2025,737945
+Fruttare Mango,Jul 2025,1167937
+Fruttare Mango,Aug 2025,907267
+Glaxose-D Orange,Sep 2024,6190619
+Glaxose-D Orange,Oct 2024,5561365
+Glaxose-D Orange,Nov 2024,7370420
+Glaxose-D Orange,Dec 2024,7294572
+Glaxose-D Orange,May 2025,6293091
+Glaxose-D Orange,Jun 2025,7090935
+Glaxose-D Orange,Jul 2025,5383954
+Glaxose-D Orange,Aug 2025,5605747
+Lifebuoy Soap,Sep 2024,4365134
+Lifebuoy Soap,Oct 2024,4350031
+Lifebuoy Soap,Nov 2024,4188494
+Lifebuoy Soap,Dec 2024,3980802
+Lifebuoy Soap,May 2025,3140215
+Lifebuoy Soap,Jun 2025,3256969
+Lifebuoy Soap,Jul 2025,4367310
+Lifebuoy Soap,Aug 2025,3927159
+Lifebuoy Shampoo,Sep 2024,2558236
+Lifebuoy Shampoo,Oct 2024,2587411
+Lifebuoy Shampoo,Nov 2024,1987260
+Lifebuoy Shampoo,Dec 2024,2005917
+Lifebuoy Shampoo,May 2025,2162754
+Lifebuoy Shampoo,Jun 2025,2130395
+Lifebuoy Shampoo,Jul 2025,2605504
+Lifebuoy Shampoo,Aug 2025,1893292
+Lux Soap,Sep 2024,1215115
+Lux Soap,Oct 2024,1435152
+Lux Soap,Nov 2024,1384539
+Lux Soap,Dec 2024,1488834
+Lux Soap,May 2025,1388709
+Lux Soap,Jun 2025,1342044
+Lux Soap,Jul 2025,1094029
+Lux Soap,Aug 2025,1237226
+Lux Body Wash,Sep 2024,674227
+Lux Body Wash,Oct 2024,775502
+Lux Body Wash,Nov 2024,647379
+Lux Body Wash,Dec 2024,756551
+Lux Body Wash,May 2025,633751
+Lux Body Wash,Jun 2025,611801
+Lux Body Wash,Jul 2025,688606
+Lux Body Wash,Aug 2025,694807
+Dove Soap,Sep 2024,2502103
+Dove Soap,Oct 2024,2096171
+Dove Soap,Nov 2024,1860472
+Dove Soap,Dec 2024,2431353
+Dove Soap,May 2025,2000900
+Dove Soap,Jun 2025,2702464
+Dove Soap,Jul 2025,2714844
+Dove Soap,Aug 2025,2678941
+Dove Shampoo,Sep 2024,4565135
+Dove Shampoo,Oct 2024,3603092
+Dove Shampoo,Nov 2024,3946303
+Dove Shampoo,Dec 2024,3976490
+Dove Shampoo,May 2025,4607276
+Dove Shampoo,Jun 2025,3208264
+Dove Shampoo,Jul 2025,3564362
+Dove Shampoo,Aug 2025,3386915
+Dove Conditioner,Sep 2024,2785844
+Dove Conditioner,Oct 2024,3283186
+Dove Conditioner,Nov 2024,3770314
+Dove Conditioner,Dec 2024,3461970
+Dove Conditioner,May 2025,3300213
+Dove Conditioner,Jun 2025,2692982
+Dove Conditioner,Jul 2025,3357929
+Dove Conditioner,Aug 2025,3839526
+Pond’s Cold Cream,Sep 2024,1886426
+Pond’s Cold Cream,Oct 2024,1908830
+Pond’s Cold Cream,Nov 2024,2341231
+Pond’s Cold Cream,Dec 2024,1756021
+Pond’s Cold Cream,May 2025,2226367
+Pond’s Cold Cream,Jun 2025,2098081
+Pond’s Cold Cream,Jul 2025,1887428
+Pond’s Cold Cream,Aug 2025,1988740
+Pond’s Talc,Sep 2024,6411788
+Pond’s Talc,Oct 2024,5527245
+Pond’s Talc,Nov 2024,5505619
+Pond’s Talc,Dec 2024,6158803
+Pond’s Talc,May 2025,5832339
+Pond’s Talc,Jun 2025,5946793
+Pond’s Talc,Jul 2025,6153295
+Pond’s Talc,Aug 2025,6360649
+Glow & Lovely Cream,Sep 2024,257587
+Glow & Lovely Cream,Oct 2024,243564
+Glow & Lovely Cream,Nov 2024,266892
+Glow & Lovely Cream,Dec 2024,232545
+Glow & Lovely Cream,May 2025,215254
+Glow & Lovely Cream,Jun 2025,297838
+Glow & Lovely Cream,Jul 2025,283564
+Glow & Lovely Cream,Aug 2025,285708
+Close-Up Red Gel,Sep 2024,1257123
+Close-Up Red Gel,Oct 2024,1051176
+Close-Up Red Gel,Nov 2024,947345
+Close-Up Red Gel,Dec 2024,1123351
+Close-Up Red Gel,May 2025,1233693
+Close-Up Red Gel,Jun 2025,986877
+Close-Up Red Gel,Jul 2025,1168177
+Close-Up Red Gel,Aug 2025,928767
+Close-Up White,Sep 2024,883976
+Close-Up White,Oct 2024,989612
+Close-Up White,Nov 2024,783897
+Close-Up White,Dec 2024,781841
+Close-Up White,May 2025,1088600
+Close-Up White,Jun 2025,995141
+Close-Up White,Jul 2025,748233
+Close-Up White,Aug 2025,879382
+Pepsodent Whitening,Sep 2024,2057980
+Pepsodent Whitening,Oct 2024,2005398
+Pepsodent Whitening,Nov 2024,2933462
+Pepsodent Whitening,Dec 2024,2808041
+Pepsodent Whitening,May 2025,2669414
+Pepsodent Whitening,Jun 2025,2385221
+Pepsodent Whitening,Jul 2025,2151884
+Pepsodent Whitening,Aug 2025,2135193
+Sunsilk Black Shine,Sep 2024,1653158
+Sunsilk Black Shine,Oct 2024,1723419
+Sunsilk Black Shine,Nov 2024,2316941
+Sunsilk Black Shine,Dec 2024,2082971
+Sunsilk Black Shine,May 2025,1986985
+Sunsilk Black Shine,Jun 2025,2097846
+Sunsilk Black Shine,Jul 2025,1923016
+Sunsilk Black Shine,Aug 2025,2155424
+Sunsilk Pink Smooth,Sep 2024,1521759
+Sunsilk Pink Smooth,Oct 2024,1781336
+Sunsilk Pink Smooth,Nov 2024,1301128
+Sunsilk Pink Smooth,Dec 2024,1366804
+Sunsilk Pink Smooth,May 2025,1321545
+Sunsilk Pink Smooth,Jun 2025,1318138
+Sunsilk Pink Smooth,Jul 2025,1844387
+Sunsilk Pink Smooth,Aug 2025,1746335
+Clear Anti-Dandruff,Sep 2024,531694
+Clear Anti-Dandruff,Oct 2024,540073
+Clear Anti-Dandruff,Nov 2024,451448
+Clear Anti-Dandruff,Dec 2024,474223
+Clear Anti-Dandruff,May 2025,509838
+Clear Anti-Dandruff,Jun 2025,394063
+Clear Anti-Dandruff,Jul 2025,567440
+Clear Anti-Dandruff,Aug 2025,555421
+Rexona Deodorant,Sep 2024,1913163
+Rexona Deodorant,Oct 2024,1823749
+Rexona Deodorant,Nov 2024,2081197
+Rexona Deodorant,Dec 2024,1937085
+Rexona Deodorant,May 2025,1575882
+Rexona Deodorant,Jun 2025,1508586
+Rexona Deodorant,Jul 2025,1925228
+Rexona Deodorant,Aug 2025,1476486
+Toni & Guy Hair Spray,Sep 2024,1256250
+Toni & Guy Hair Spray,Oct 2024,1200733
+Toni & Guy Hair Spray,Nov 2024,1154177
+Toni & Guy Hair Spray,Dec 2024,954651
+Toni & Guy Hair Spray,May 2025,1260849
+Toni & Guy Hair Spray,Jun 2025,1265081
+Toni & Guy Hair Spray,Jul 2025,1177757
+Toni & Guy Hair Spray,Aug 2025,1264986
+Surf Excel Washing Powder,Sep 2024,1339162
+Surf Excel Washing Powder,Oct 2024,1262055
+Surf Excel Washing Powder,Nov 2024,1281216
+Surf Excel Washing Powder,Dec 2024,1230867
+Surf Excel Washing Powder,May 2025,1277352
+Surf Excel Washing Powder,Jun 2025,1636304
+Surf Excel Washing Powder,Jul 2025,1263170
+Surf Excel Washing Powder,Aug 2025,1414290
+Surf Excel Liquid,Sep 2024,4174809
+Surf Excel Liquid,Oct 2024,4032244
+Surf Excel Liquid,Nov 2024,4452009
+Surf Excel Liquid,Dec 2024,4803122
+Surf Excel Liquid,May 2025,4188565
+Surf Excel Liquid,Jun 2025,5237895
+Surf Excel Liquid,Jul 2025,3637155
+Surf Excel Liquid,Aug 2025,4312722
+Rin Bar,Sep 2024,1027261
+Rin Bar,Oct 2024,1297670
+Rin Bar,Nov 2024,1324193
+Rin Bar,Dec 2024,1410845
+Rin Bar,May 2025,1138212
+Rin Bar,Jun 2025,1119058
+Rin Bar,Jul 2025,1309841
+Rin Bar,Aug 2025,1104332
+Vim Dishwash Bar,Sep 2024,1355873
+Vim Dishwash Bar,Oct 2024,1623128
+Vim Dishwash Bar,Nov 2024,1659508
+Vim Dishwash Bar,Dec 2024,1355654
+Vim Dishwash Bar,May 2025,1440142
+Vim Dishwash Bar,Jun 2025,1534991
+Vim Dishwash Bar,Jul 2025,1512117
+Vim Dishwash Bar,Aug 2025,1447343
+Vim Liquid,Sep 2024,2886062
+Vim Liquid,Oct 2024,2429013
+Vim Liquid,Nov 2024,3509588
+Vim Liquid,Dec 2024,2526193
+Vim Liquid,May 2025,2801640
+Vim Liquid,Jun 2025,3563560
+Vim Liquid,Jul 2025,3564218
+Vim Liquid,Aug 2025,3108613
+Sunlight Soap,Sep 2024,292764
+Sunlight Soap,Oct 2024,364250
+Sunlight Soap,Nov 2024,357428
+Sunlight Soap,Dec 2024,309703
+Sunlight Soap,May 2025,412363
+Sunlight Soap,Jun 2025,389283
+Sunlight Soap,Jul 2025,295810
+Sunlight Soap,Aug 2025,410226
+Comfort Fabric Conditioner,Sep 2024,967564
+Comfort Fabric Conditioner,Oct 2024,926578
+Comfort Fabric Conditioner,Nov 2024,1095904
+Comfort Fabric Conditioner,Dec 2024,892189
+Comfort Fabric Conditioner,May 2025,803442
+Comfort Fabric Conditioner,Jun 2025,813280
+Comfort Fabric Conditioner,Jul 2025,1048013
+Comfort Fabric Conditioner,Aug 2025,993632
+Domex Toilet Cleaner,Sep 2024,2764556
+Domex Toilet Cleaner,Oct 2024,2532648
+Domex Toilet Cleaner,Nov 2024,2731009
+Domex Toilet Cleaner,Dec 2024,3295346
+Domex Toilet Cleaner,May 2025,2446078
+Domex Toilet Cleaner,Jun 2025,2863960
+Domex Toilet Cleaner,Jul 2025,2544786
+Domex Toilet Cleaner,Aug 2025,2941423
+Walls Feast,Sep 2024,1626090
+Walls Feast,Oct 2024,1703815
+Walls Feast,Nov 2024,1726218
+Walls Feast,Dec 2024,1591738
+Walls Feast,May 2025,1747102
+Walls Feast,Jun 2025,2382497
+Walls Feast,Jul 2025,2469334
+Walls Feast,Aug 2025,1937389
+Walls Kulfi,Sep 2024,1593222
+Walls Kulfi,Oct 2024,1698241
+Walls Kulfi,Nov 2024,1714487
+Walls Kulfi,Dec 2024,1748932
+Walls Kulfi,May 2025,2653925
+Walls Kulfi,Jun 2025,2074536
+Walls Kulfi,Jul 2025,1924260
+Walls Kulfi,Aug 2025,2281372
+Magnum White Chocolate,Sep 2024,823688
+Magnum White Chocolate,Oct 2024,566665
+Magnum White Chocolate,Nov 2024,801851
+Magnum White Chocolate,Dec 2024,701051
+Magnum White Chocolate,May 2025,976157
+Magnum White Chocolate,Jun 2025,1253033
+Magnum White Chocolate,Jul 2025,1100623
+Magnum White Chocolate,Aug 2025,1074444
+Cornetto Disc,Sep 2024,2311825
+Cornetto Disc,Oct 2024,2654011
+Cornetto Disc,Nov 2024,2826757
+Cornetto Disc,Dec 2024,2868886
+Cornetto Disc,May 2025,3072122
+Cornetto Disc,Jun 2025,3040895
+Cornetto Disc,Jul 2025,3510642
+Cornetto Disc,Aug 2025,3145963
+Knorr Stock Cubes,Sep 2024,842552
+Knorr Stock Cubes,Oct 2024,845899
+Knorr Stock Cubes,Nov 2024,764304
+Knorr Stock Cubes,Dec 2024,718396
+Knorr Stock Cubes,May 2025,654216
+Knorr Stock Cubes,Jun 2025,797059
+Knorr Stock Cubes,Jul 2025,760500
+Knorr Stock Cubes,Aug 2025,612601
+Knorr Mayonnaise,Sep 2024,495715
+Knorr Mayonnaise,Oct 2024,407397
+Knorr Mayonnaise,Nov 2024,435133
+Knorr Mayonnaise,Dec 2024,492115
+Knorr Mayonnaise,May 2025,351110
+Knorr Mayonnaise,Jun 2025,484948
+Knorr Mayonnaise,Jul 2025,430147
+Knorr Mayonnaise,Aug 2025,364948
+Lipton Iced Tea,Sep 2024,822212
+Lipton Iced Tea,Oct 2024,873911
+Lipton Iced Tea,Nov 2024,944924
+Lipton Iced Tea,Dec 2024,1141878
+Lipton Iced Tea,May 2025,831446
+Lipton Iced Tea,Jun 2025,830337
+Lipton Iced Tea,Jul 2025,722203
+Lipton Iced Tea,Aug 2025,706442
+Glow & Lovely Face Wash,Sep 2024,776909
+Glow & Lovely Face Wash,Oct 2024,1007641
+Glow & Lovely Face Wash,Nov 2024,948730
+Glow & Lovely Face Wash,Dec 2024,1029426
+Glow & Lovely Face Wash,May 2025,1090541
+Glow & Lovely Face Wash,Jun 2025,967748
+Glow & Lovely Face Wash,Jul 2025,1020521
+Glow & Lovely Face Wash,Aug 2025,1032111
+Dove Body Lotion,Sep 2024,1581156
+Dove Body Lotion,Oct 2024,1373790
+Dove Body Lotion,Nov 2024,1906032
+Dove Body Lotion,Dec 2024,1681573
+Dove Body Lotion,May 2025,1437979
+Dove Body Lotion,Jun 2025,1723852
+Dove Body Lotion,Jul 2025,1689285
+Dove Body Lotion,Aug 2025,1521549
+Pond’s Face Wash,Sep 2024,199797
+Pond’s Face Wash,Oct 2024,198041
+Pond’s Face Wash,Nov 2024,226446
+Pond’s Face Wash,Dec 2024,184570
+Pond’s Face Wash,May 2025,225247
+Pond’s Face Wash,Jun 2025,237371
+Pond’s Face Wash,Jul 2025,167025
+Pond’s Face Wash,Aug 2025,223282
